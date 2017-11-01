@@ -1,0 +1,11 @@
+ipython
+jupyter
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib
+python-dateutil>=2.2
+future
+pyperclip
